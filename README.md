@@ -2,7 +2,7 @@
  
  **Запуск игры:**
  1) Кланировать репозиторий с игрой с github (**git clone https://github.com/NThunder/GameLife.git или git@github.com:NThunder/GameLife.git**)
- 2) Для запуска игры необходим интерпритатор **python** или pyth****on3, а так же утилита **pip/pip3**.
+ 2) Для запуска игры необходим интерпритатор **python** или python3, а так же утилита **pip/pip3**.
  3) Для запуска игры необходим модуль **pygame**, поэтому нужно либо прописать команду в консоли **pip/pip3 install pygame**, либо
  **pip/pip3 install -r requirements.txt** 
  4) Запустить скрипт в консоли: **python/python3 GameLife.py** (так же можно в виде параметров указать ширину поля(px), длину поля(px), размер ячейки(px), скорость).
